@@ -6,16 +6,16 @@ public class PruebaAaron {
         CuentaBancaria prueba1 = new CuentaBancaria(1, "prueba");
         /* prueba para deposito siendo negativo */
         prueba1.deposito(-2);
-        /* da error y es de tipo caja blanca*/
+        /* da error y es de tipo caja blanca subtipo condiciones */
 
         /* prueba para deposito siendo positivo */
         prueba1.deposito(4);
-        /* funciona y es de tipo blanca */
+        /* funciona y es de tipo caja blanca subtipo condiciones */
 
         /* prueba para deposito siendo 0 */
 
         prueba1.deposito(0);
-        /* da error y es de tipo blanca */
+        /* da error y es de tipo caja blanca subtipo condiciones */
 
     }
 }
