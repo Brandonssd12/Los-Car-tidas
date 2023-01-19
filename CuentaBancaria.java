@@ -13,9 +13,9 @@ package com.bramepar.practiva_depurando_1;
  * Department 1DAW
  */
 public class CuentaBancaria {
-    private int numeroCuenta;
-    private String nombreCliente;
-    private double balance;
+    public int numeroCuenta;
+    public String nombreCliente;
+    public double balance;
 
     /* Constructor para crear una cuenta bancaria con balance 0*/
     public CuentaBancaria(int nuevoNumCuenta, String nuevoNombre) {
