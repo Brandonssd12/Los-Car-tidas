@@ -5,8 +5,8 @@ import com.bramepar.practiva_depurando_1.CuentaBancaria;
 
 
 /* Prueba para retirar en negativo.
- * da error de transacción.
- * Prueba de Caja Blanca
+ * Ocurre error de transacción.
+ * Prueba de Caja Blanca de subtipo condición
  * 
  */
 
